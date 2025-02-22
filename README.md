@@ -1,2 +1,2 @@
 # HealthTrack-App
-DEBI GRADUATION PROJECT
+HealthTrack is an innovative mobile application designed to streamline healthcare by providing a centralized and secure platform for storing and accessing individuals' complete medical history. Users can input their health records by answering structured medical questionnaires, which are securely linked to their fingerprint. This enables instant and accurate retrieval of medical history, reducing paperwork and improving medical decision-making.
